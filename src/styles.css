@@ -45,3 +45,8 @@ h3 {
   justify-content: center;
   margin-top: 40px;
 }
+.homepage-link {
+  color: var(--primary-color);
+  text-align: center;
+  display: block;
+}
